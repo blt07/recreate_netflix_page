@@ -1,4 +1,4 @@
-/* Vou para a parte 48*/
+/* Vou para a parte 8*/
 :root{
     --vermelho: #e50914;
     --preta: #141414;
@@ -111,4 +111,19 @@ header nav a:hover{
     height: 100%;
     width: 100%;
     display: block;
+}
+
+.carrosel-filmes{
+    margin-top: 5px;
+}
+
+.subtitulo{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 8px;
+}
+
+.item:hover{
+    height: 1400%;
 }
